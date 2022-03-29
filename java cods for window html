@@ -1,0 +1,21 @@
+<script language="JavaScript">
+// this code from http://elahmad.com/
+// Visit http://www.elahmad.com/ for more code
+//  http://www.elahmad.com/
+config='toolbar=no,location=no,directories=no,status=no,menubar=no,width=200,height=200' // 
+config += 'scrollbars=no,resizable=no'
+pop = window.open ("","pop",config)
+pop.document.write('<script language="javascript">');
+pop.document.write('setTimeout(');
+pop.document.write('"self.close()');
+pop.document.write(';",6000)'); // 
+pop.document.write('</');
+pop.document.write('script>');
+pop.document.write('<body bgcolor=FF0000>');
+pop.document.write('<font color=FFFFFF>');
+pop.document.write('<center><b><h4><font color="#FFFF00"></font></h3></b></center>');
+pop.document.write('<center><b><h4></h3></b></center>');
+pop.document.write('<center><b><h4><a target="_blank" href="http://www.elahmad.com/pagerank.php"><font color="#FFFFFF">www.elahmad.com</font></a></h3></b></center>');
+pop.document.write('<center><b><font face="Tahoma" size="1">!</font></b></center>'); // 
+pop.document.write('</body>');
+</script>
