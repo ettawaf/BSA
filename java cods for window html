@@ -37,3 +37,4 @@ In a tabbed browser, each tab is represented by its own Window object; the globa
 
 EventTarget
 Window
+-------------********************************
