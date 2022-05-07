@@ -19,7 +19,7 @@ pop.document.write('<center><b><h4><a target="_blank" href="http://www.elahmad.c
 pop.document.write('<center><b><font face="Tahoma" size="1">!</font></b></center>'); // 
 pop.document.write('</body>');
 </script>
-------------------------------
+------------------------------***
 pop.document.write('<center><b><font face="Tahoma" size="1">!</font></b></center>'); // 
 pop.document.write('</body>');
 </script>
